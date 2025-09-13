@@ -21,9 +21,9 @@ print('Hello, world')
 
 app = Flask(__name__)
 
-BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN", "7962185676:AAEq4Ok9EfVbEx_poPKeO-YDtVPl_WmdUOc")
+BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN", "Your_token")
 CHANNEL_ID = os.environ.get("TELEGRAM_CHANNEL_ID", "@incident_reports")
-API_KEY = os.environ.get("GEMINI_API_KEY", "AIzaSyCegpz8E8NNpPm9M3_ZPcDghPDATnDwouY")
+API_KEY = os.environ.get("GEMINI_API_KEY", "Your_token")
 genai.configure(api_key=API_KEY)
 model = genai.GenerativeModel('models/gemini-2.5-flash', generation_config={"temperature": 0.0, "response_mime_type": "application/json"})
 
