@@ -24,7 +24,7 @@ Notification: The report is sent to Telegram, allowing for instant and automated
 🚨 Report of a Potential Incident as of 12 September 16:59:38
 
 📍 Location:
-Link to Google Maps (https://www.google.com/maps/search/?api=1&query=34.776331355613785,32.42564140281856)
+[Link to Google Maps](https://www.google.com/maps/search/?api=1&query=34.776331355613785,32.42564140281856)
 
 🆘 Danger score: 8/10
 
