@@ -45,6 +45,8 @@ The lack of recognizable speech in the audio, combined with the visual of scisso
 It is plausible that the man in the background is either playfully or threateningly holding scissors near the man in the foreground. The expressions and the presence of a sharp object suggest a non-standard interaction, possibly a prank or a more serious confrontation. Without audio, the intent remains ambiguous.
 Technical Stack
 Client: Swift (iOS Application)
+
+
 ------
 Server: Python, Flask
 
